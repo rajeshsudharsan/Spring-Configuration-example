@@ -1,4 +1,4 @@
-Employee:
+employee:
     name: "Prod"
     id: 4
     salary: "100000"
