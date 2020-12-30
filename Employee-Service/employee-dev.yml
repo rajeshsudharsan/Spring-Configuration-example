@@ -1,5 +1,5 @@
-student:
+employee:
     name: Dev
     id: 2
-    Dept: ECE
+    salary: 80000
     

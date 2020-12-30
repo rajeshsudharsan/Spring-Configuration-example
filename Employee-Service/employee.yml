@@ -1,5 +1,5 @@
 employee:
-    name: "Default"
+    name: Default
     id: 1
-    salary: "70000"
+    salary: 70000
     

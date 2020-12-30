@@ -1,5 +1,5 @@
 student:
-    name: "Default"
+    name: Default
     id: 1
-    Dept: "CSE"
+    Dept: CSE
     
